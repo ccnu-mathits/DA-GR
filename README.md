@@ -1,6 +1,6 @@
 # DA-GR
 
-Initial source code and data set for the paper **Deep adversarial group recommendation with user feature space separation**.
+Initial source code and data set for the paper **Deep adversarial group recommendation with user feature space separation** in Journal "User Modeling and User-Adapted Interaction".
 
 ### Dependencies
 
